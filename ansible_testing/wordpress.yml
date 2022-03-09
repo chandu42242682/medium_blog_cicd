@@ -6,5 +6,5 @@
       path: /var/www/html/website
       state: absent
   - git:
-      repo: https://github.com/chandu42242682/website.git
+      repo: https://github.com/chandu42242682/web_content.git
       dest: /var/www/html/website
